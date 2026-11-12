@@ -1,4 +1,0 @@
-date;semaine;jour;mission;theme;statut;temps_min;difficulte_1a5;notions;remarque
-2026-11-16;1;J1;Q1;Agrégats;A faire;;;GROUP BY;
-2026-11-16;1;J1;Q2;Dates;A faire;;;julianday, ORDER BY;
-2026-11-16;1;J1;Q3;Agrégats;A faire;;;SUM, AVG, ROUND;
