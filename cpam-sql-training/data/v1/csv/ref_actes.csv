@@ -1,0 +1,19 @@
+﻿code_acte;libelle;categorie;tarif_base;taux_remboursement
+G;Consultation médecin généraliste;Consultation;30.0;70
+GS;Consultation généraliste spécialiste MG;Consultation;30.0;70
+CS;Consultation spécialiste;Consultation;31.5;70
+APC;Avis ponctuel de consultant;Consultation;60.0;70
+TCG;Téléconsultation généraliste;Téléconsultation;30.0;70
+VG;Visite à domicile généraliste;Visite;40.0;70
+AMI;Acte infirmier (forfait soin);Auxiliaire;15.75;60
+AMK;Séance de kinésithérapie;Auxiliaire;18.92;60
+PH7;Médicament vignette blanche 65 %;Pharmacie;12.4;65
+PH4;Médicament vignette bleue 30 %;Pharmacie;8.9;30
+PH2;Médicament vignette orange 15 %;Pharmacie;6.2;15
+B;Analyse de biologie;Biologie;22.5;60
+RAD;Radiographie standard;Imagerie;39.9;70
+ECH;Échographie;Imagerie;56.7;70
+IRM;IRM (forfait technique + acte);Imagerie;230.0;70
+TRA;Transport sanitaire (ambulance);Transport;75.0;65
+DEN;Soin dentaire conservateur;Dentaire;26.97;70
+OPT;Équipement optique (monture + verres);Optique;50.0;60

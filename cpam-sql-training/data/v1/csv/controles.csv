@@ -1,0 +1,23 @@
+﻿id_controle;table_source;id_reference;type_anomalie;date_detection;montant_indu;statut;date_cloture
+C0001;prestations;PR00073;Contrôle aléatoire - conforme;2025-02-14;0.0;Clos conforme;2025-03-22
+C0002;prestations;PR00037;Erreur de taux;2025-03-25;11.34;Notifié;
+C0003;prestations;PR00067;Contrôle aléatoire - conforme;2025-04-28;0.0;Clos conforme;2025-07-20
+C0004;paiements_ij;P00068;Contrôle aléatoire - conforme;2025-05-22;0.0;Clos conforme;2025-08-06
+C0005;paiements_ij;P00025;Dépassement du plafond IJ;2025-05-26;163.08;Notifié;
+C0006;paiements_ij;P00118;Doublon de paiement;2025-06-07;480.35;Notifié;
+C0007;paiements_ij;P00053;Paiement en période de carence;2025-06-16;125.85;Abandonné;2025-09-05
+C0008;paiements_ij;P00088;Dépassement date de fin;2025-06-17;209.75;Abandonné;2025-08-21
+C0009;paiements_ij;P00006;Contrôle aléatoire - conforme;2025-07-22;0.0;Clos conforme;2025-10-13
+C0010;prestations;PR00077;Contrôle aléatoire - conforme;2025-07-25;0.0;Clos conforme;2025-10-07
+C0011;arrets_travail;AR0079;Envoi tardif de l'avis d'arrêt;2025-07-25;0.0;Ouvert;
+C0012;paiements_ij;P00085;Contrôle aléatoire - conforme;2025-07-26;0.0;Clos conforme;
+C0013;prestations;PR00052;Erreur de taux;2025-07-27;4.73;Notifié;
+C0014;prestations;PR00114;Doublon de facturation;2025-08-12;48.75;Recouvré;2025-09-17
+C0015;paiements_ij;P00051;Paiement en période de carence;2025-08-20;125.85;Notifié;
+C0016;arrets_travail;AR0019;Envoi tardif de l'avis d'arrêt;2025-08-22;0.0;Abandonné;2025-11-16
+C0017;paiements_ij;P00023;Contrôle aléatoire - conforme;2025-10-01;0.0;Clos conforme;
+C0018;prestations;PR00004;Contrôle aléatoire - conforme;2025-10-07;0.0;Clos conforme;
+C0019;prestations;PR00100;Contrôle aléatoire - conforme;2025-10-14;0.0;Clos conforme;
+C0020;paiements_ij;P00064;Contrôle aléatoire - conforme;2025-11-17;0.0;Clos conforme;
+C0021;paiements_ij;P00072;Contrôle aléatoire - conforme;2025-11-20;0.0;Clos conforme;2025-12-14
+C0022;arrets_travail;AR0066;Envoi tardif de l'avis d'arrêt;2025-12-09;0.0;Ouvert;
